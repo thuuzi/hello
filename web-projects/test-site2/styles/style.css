@@ -1,0 +1,19 @@
+.div1{
+  text-align: center;
+}
+.div2{
+  width: 600px;
+  height: 30px;
+  margin: 0 auto;
+}
+ul{
+  list-style-type:none;
+}
+li{
+  float:left;
+  width: 60px;
+}
+div{
+  text-align: center;
+}
+
